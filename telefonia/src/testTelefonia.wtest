@@ -1,0 +1,7 @@
+import telefonia.*
+
+test "testX" {
+
+	assert.that(true)
+
+}
